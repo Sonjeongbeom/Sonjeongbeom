@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&&color=0:0033ff,100:ccffff&height=200&section=header&text=JB's Profile&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0033ff,100:ccffff&height=200&section=header&text=JB's%20Profile&fontColor=ffffff&fontSize=50" />
 </div>
 
 <h3 align="center"><i>About Me</i></h3>
 <div align="center"> 
-    <b><i>Name</i> 손정범</b>  <b><i>School</i> 한양대학교</b>
-    <b><i>1st Major</i> 경영학부</b>  <b><i>2nd Major</i> 컴퓨터소프트웨어학부</b>
+    <p><b><i>Name</i> 손정범</b>  <b><i>School</i> 한양대학교</b></p>
+    <p><b><i>1st Major</i> 경영학부</b>  <b><i>2nd Major</i> 컴퓨터소프트웨어학부</b></p>
 </div>
 <br/>
 <h3 align="center"><i>Clubs</i></h3>
