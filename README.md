@@ -1,31 +1,22 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&&color=0:0033ff,100:ccffff&height=200&section=header&text=Jeongbeom&fontColor=ffffff&fontSize=50" />
-</div> -->
-
-<h3 align="center"><i>Graduation</i></h3>
-<div align="center"> 
-    <p><i><b>Name</b></i> 손정범</p>
-    <p><i><b>University</b></i> 한양대학교</p>
-    <p><i><b>1st Major</b></i> 경영학부</p>
-    <p><i><b>2nd Major</b></i> 컴퓨터소프트웨어학부</p>
+    <img src="https://capsule-render.vercel.app/api?type=soft&&color=0:0033ff,100:ccffff&height=200&section=header&text=JB's Profile&fontColor=ffffff&fontSize=50" />
 </div>
 
-<h3 align="center"><i>Graduation</i></h3>
+<h3 align="center"><i>About Me</i></h3>
 <div align="center"> 
-    <p><i><b>Name</b></i> 손정범</p>
-    <p><i><b>University</b></i> 한양대학교</p>
-    <p><i><b>1st Major</b></i> 경영학부</p>
-    <p><i><b>2nd Major</b></i> 컴퓨터소프트웨어학부</p>
+    <b><i>Name</i> 손정범</b>  <b><i>School</i> 한양대학교</b>
+    <b><i>1st Major</i> 경영학부</b>  <b><i>2nd Major</i> 컴퓨터소프트웨어학부</b>
 </div>
-
+<br/>
 <h3 align="center"><i>Clubs</i></h3>
-<div align="center"> 
-    <p>2018 SOPT 23rd Plan</p>
-    <p>2019 SOPT 24th Android</p>
-    <p>2021 멋쟁이사자처럼 한양대 9기</p>
-    <p>2022 멋쟁이사자처럼 한양대 10기 백엔드 운영진</p>
+<div align="center">
+    <p>2018.07 - 2018.08 CLT Dreamers 9th</p>
+    <p>2018.09 - 2019.02 SOPT 23rd Plan</p>
+    <p>2019.03 - 2019.08 SOPT 24th Android</p>
+    <p>2021.03 - 2021.11 멋쟁이사자처럼 한양대 9기</p>
+    <p>2022.03 - present 멋쟁이사자처럼 한양대 10기 백엔드 운영진</p>
 </div>
-
+<br/>
 <h3 align="center"><i>Skills</i></h3>
 <p align="center">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
