@@ -1,22 +1,22 @@
-<div align="center">
+<div align="left">
     <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0033ff,100:ccffff&height=200&section=header&text=JB's%20Profile&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div>
-    <h2 align="center"><b>손정범</b></h2>
-    <div align="center">
+    <h2 align="left"><b>손정범</b></h2>
+    <div align="left">
         <b><i>School</i> 한양대학교</b>  <b><i>1st Major</i> 경영학부</b>    <b><i>2nd Major</i> 컴퓨터소프트웨어학부</b
     </div>
 </div>
 <br/>
 
-<h3 align="center"><i>Clubs</i></h3>
+<h3 align="left"><i>Clubs</i></h3>
 <div align="left">
-        <p><b><i>2018.07 - 2018.08</i> CLT Dreamers 9th</b></p>
-        <p><b><i>2018.09 - 2019.02</i> SOPT 23rd Plan</b></p>
-        <p><b><i>2019.03 - 2019.08</i> SOPT 24th Android</b></p>
-        <p><b><i>2021.03 - 2021.11</i> 멋쟁이사자처럼 한양대 9기</b></p>
-        <p><b><i>2022.03 - present</i> 멋쟁이사자처럼 한양대 10기 백엔드 운영진</b></p>
+    <p><b><i>2018.07 - 2018.08</i> CLT Dreamers 9th</b></p>
+    <p><b><i>2018.09 - 2019.02</i> SOPT 23rd Plan</b></p>
+    <p><b><i>2019.03 - 2019.08</i> SOPT 24th Android</b></p>
+    <p><b><i>2021.03 - 2021.11</i> 멋쟁이사자처럼 한양대 9기</b></p>
+    <p><b><i>2022.03 - present</i> 멋쟁이사자처럼 한양대 10기 백엔드 운영진</b></p>
 </div>
 <br/>
 
