@@ -10,11 +10,11 @@
 <br/>
 <h3 align="center"><i>Clubs</i></h3>
 <div align="center">
-    <p>2018.07 - 2018.08 CLT Dreamers 9th</p>
-    <p>2018.09 - 2019.02 SOPT 23rd Plan</p>
-    <p>2019.03 - 2019.08 SOPT 24th Android</p>
-    <p>2021.03 - 2021.11 멋쟁이사자처럼 한양대 9기</p>
-    <p>2022.03 - present 멋쟁이사자처럼 한양대 10기 백엔드 운영진</p>
+    <p><b><i>2018.07 - 2018.08</i> CLT Dreamers 9th</b></p>
+    <p><b><i>2018.09 - 2019.02</i> SOPT 23rd Plan</b></p>
+    <p><b><i>2019.03 - 2019.08</i> SOPT 24th Android</b></p>
+    <p><b><i>2021.03 - 2021.11</i> 멋쟁이사자처럼 한양대 9기</b></p>
+    <p><b><i>2022.03 - present</i> 멋쟁이사자처럼 한양대 10기 백엔드 운영진</b></p>
 </div>
 <br/>
 <h3 align="center"><i>Skills</i></h3>
