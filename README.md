@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0033ff,100:ccffff&height=200&section=header&text=JB's%20Profile&fontColor=ffffff&fontSize=50" />
 <div>
-    <h2 align="left"><b>손정범</b></h2>
     <div align="left">
-        <p><b><i>School</i> 한양대학교</b></p>
+        <p><b><i>University</i> 한양대학교</b></p>
         <p><b><i>1st Major</i> 경영학부</b></p>
         <p><b><i>2nd Major</i> 컴퓨터소프트웨어학부</b></p>
     </div>
