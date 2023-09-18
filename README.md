@@ -1,10 +1,3 @@
-<div>
-    <div align="left">
-        <p><b><i>University</i> 한양대학교</b></p>
-        <p><b><i>1st Major</i> 경영학부</b></p>
-        <p><b><i>2nd Major</i> 컴퓨터소프트웨어학부</b></p>
-    </div>
-</div>
 <h3 align="left"><i>Tech</i></h3>
 <p align="left">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
